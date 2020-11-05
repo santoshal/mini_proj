@@ -1,9 +1,39 @@
 {
   "profile": [
     {
-      "name": "java",
-      "email": "wrr@gmail.com",
+      "name": "Santosh Aland",
+      "email": "sant@gmail.com",
+      "password": "sant",
+      "gender": "Male",
       "id": 1
+    },
+    {
+      "name": "Santosh Aland",
+      "email": "sant@gmail.com",
+      "password": "dsa",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "name": "java",
+      "email": "santoshal@cybage.com",
+      "password": "sa",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "java",
+      "email": "eeeeewgter@gmail.com",
+      "password": "asd",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "name": "SHOBHIT",
+      "email": "shobhit@gmail.com",
+      "password": "shb",
+      "gender": "Male",
+      "id": 5
     }
   ]
 }
